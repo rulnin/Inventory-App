@@ -1,7 +1,7 @@
 # Inventory-App
 This project aims to optimize stock replenishment and automate the process by integrating ERP data related to stock and sales. The data undergoes transformation and is stored in a MySQL database, which serves as the backbone for the dashboard used to track inventory levels and sales performance.
 
-]# Overview
+# Overview
 The Inventory App processes stock and sales data originating from an ERP system. The data is extracted, transformed, and loaded (ETL) into a MySQL database, allowing for efficient management and visualization of stock replenishment processes. The resulting dashboard provides real-time insights into inventory status and sales performance, aiding decision-making and optimization strategies.
 
 # Features
