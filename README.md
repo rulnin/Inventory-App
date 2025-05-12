@@ -12,9 +12,9 @@ The Inventory App processes stock and sales data originating from an ERP system.
 * Real-time updates to the dashboard as new data is processed
 
 # Data Processing Flow
-1.Extract: Stock and sales data is retrieved from the ERP system.
-2.Transform: Using Python libraries (Pandas and Numpy), the data is cleaned, filtered, and aggregated for analysis.
-3 Load: Transformed data is stored in a MySQL database for querying and visualization.
+1. Extract: Stock and sales data is retrieved from the ERP system.
+2. Transform: Using Python libraries (Pandas and Numpy), the data is cleaned, filtered, and aggregated for analysis.
+3. Load: Transformed data is stored in a MySQL database for querying and visualization.
 4. Visualize: Dash is used to build an interactive dashboard that displays the data and insights related to stock and sales.
 
 # Technologies Used
